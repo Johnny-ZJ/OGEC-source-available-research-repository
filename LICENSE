@@ -1,0 +1,18 @@
+Copyright (c) 2026. All rights reserved.
+
+SOURCE-AVAILABLE RESEARCH LICENSE
+
+Permission is granted to view and use the files in this repository solely for
+non-commercial academic review, verification, and research evaluation.
+
+No permission is granted to:
+- reproduce or redistribute substantial portions of this code in another
+  software package or repository;
+- use the code or derivative implementations for commercial purposes;
+- represent this repository as a complete implementation of the OGEC model;
+- remove attribution or this license notice.
+
+The complete OGEC implementation and omitted model components are not licensed
+or released under this repository.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
