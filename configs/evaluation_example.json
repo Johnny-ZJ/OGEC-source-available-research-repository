@@ -1,0 +1,8 @@
+{
+  "task": "seven_class_qeeg_classification",
+  "num_classes": 7,
+  "outer_cv_folds": 10,
+  "evaluation_level": "participant",
+  "primary_reporting": "pooled_out_of_fold",
+  "note": "Training-specific architecture and optimization parameters are intentionally not included in the public release."
+}
