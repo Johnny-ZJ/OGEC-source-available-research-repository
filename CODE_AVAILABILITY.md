@@ -1,0 +1,3 @@
+# Code availability statement
+
+A partial source-available research code repository is provided to support transparency of the study. The public release contains the data-schema checks, subject-level split utilities, fold-specific preprocessing, pooled out-of-fold evaluation, and statistical-analysis code used to assess model performance. The complete implementation of the OGEC core architecture, the full generative training module, trained weights, and selected training-specific implementation details are not publicly distributed at this stage because they form part of ongoing research. The manuscript provides the methodological description needed to interpret the reported experiments.
