@@ -1,0 +1,25 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Data and model artifacts should never be committed
+data/
+datasets/
+checkpoints/
+weights/
+models/
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# Participant-level outputs
+*participant*
+*subject_level*
+oof_predictions*.csv
